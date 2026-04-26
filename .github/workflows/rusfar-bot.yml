@@ -3,7 +3,8 @@ name: RUSFAR bot
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+  - cron: "30 9-16 * * *"
+  - cron: "0 10-17 * * *"
 
 permissions:
   contents: write
