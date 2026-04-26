@@ -1,0 +1,25 @@
+from datetime import datetime
+from app.scheduler import start_scheduler
+from app.main import run_check
+
+def get_next_run_time():
+    now = datetime.now()
+
+    if now.minute < 30:
+        return now.replace(minute=30, second=0, microsecond=0)
+    else:
+        from datetime import timedelta
+        return (now + timedelta(hours=1)).replace(minute=0, second=0, microsecond=0)
+
+
+if __name__ == "__main__":
+    now = datetime.now()
+    next_run = get_next_run_time()
+
+    print(f"Бот запущен: {now.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"Следующая проверка: {next_run.strftime('%H:%M:%S')} МСК")
+
+    # сразу один прогон (для спокойствия)
+    run_check()
+
+    start_scheduler()

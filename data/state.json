@@ -1,0 +1,51 @@
+{
+  "RUSFAR": {
+    "code": "RUSFAR",
+    "value": "14.38",
+    "calc_date": "2026-04-24",
+    "source_timestamp": null,
+    "payload_hash": "bd89edbc1630aa8bba1e3db03f50806a8dfe81652e3d51b47cc0eeca2e5e7a2c"
+  },
+  "RUSFAR1W": {
+    "code": "RUSFAR1W",
+    "value": "14.2",
+    "calc_date": "2026-04-24",
+    "source_timestamp": null,
+    "payload_hash": "4c8e999a52aea16262426b61c32dc92537723273c6f5b9ee437a5ccae503fbb0"
+  },
+  "RUSFAR2W": {
+    "code": "RUSFAR2W",
+    "value": "14.12",
+    "calc_date": "2026-04-24",
+    "source_timestamp": null,
+    "payload_hash": "2407ab5748c96fb45e2ee485df9c9d5f6cd2fce2c392b3d17a2996c95d0429c4"
+  },
+  "RUSFAR1M": {
+    "code": "RUSFAR1M",
+    "value": "14.11",
+    "calc_date": "2026-04-24",
+    "source_timestamp": null,
+    "payload_hash": "1db826a2b84fc9c82908898190abdafd488fcfcf595c4250687cc67156b5aca6"
+  },
+  "RUSFAR3M": {
+    "code": "RUSFAR3M",
+    "value": "14.07",
+    "calc_date": "2026-04-24",
+    "source_timestamp": null,
+    "payload_hash": "6a262eb4241073c776f6a092858806b6c26246fc89de39af1c04feb6236c16b0"
+  },
+  "RUSFARCNY": {
+    "code": "RUSFARCNY",
+    "value": "0.19",
+    "calc_date": "2026-04-24",
+    "source_timestamp": null,
+    "payload_hash": "9fd1b366a1025b798bdc2248aef29233469cd03216aa2a6264f96e5d25aab07a"
+  },
+  "RUSFARCN1W": {
+    "code": "RUSFARCN1W",
+    "value": "0.4",
+    "calc_date": "2026-04-24",
+    "source_timestamp": null,
+    "payload_hash": "d0dc97f8aaef71131d564631f80c1b2ce90d79957c27a9c2a87ac501202dc65f"
+  }
+}
