@@ -1,38 +1,38 @@
 {
   "RUSFAR": {
     "code": "RUSFAR",
-    "value": "14.37",
-    "calc_date": "2026-05-04",
+    "value": "14.16",
+    "calc_date": "2026-05-05",
     "source_timestamp": null,
-    "payload_hash": "5f0f81727452e0769e09abe393694c62ac9bd0d1419537959218fb5bfad871d7"
+    "payload_hash": "e6c85890bca18032a92ec65aee3f16ebaedb07fd8e2fc6c9592916089a32620c"
   },
   "RUSFAR1W": {
     "code": "RUSFAR1W",
-    "value": "14.41",
-    "calc_date": "2026-05-04",
+    "value": "14.28",
+    "calc_date": "2026-05-05",
     "source_timestamp": null,
-    "payload_hash": "961e46c89e6c4b206a5e091984a9c1238c7b652028aba5f60faaa3d0f49df5a2"
+    "payload_hash": "f04e886d17ba0ec0a710a747d61676a07b671fd72c83bdb25d7f43dddd6b0aed"
   },
   "RUSFAR2W": {
     "code": "RUSFAR2W",
-    "value": "14.37",
-    "calc_date": "2026-05-04",
+    "value": "14.3",
+    "calc_date": "2026-05-05",
     "source_timestamp": null,
-    "payload_hash": "327adc6773994f502cc08342c88a244cc1d94ff70578cd639d65a4f829fe11e9"
+    "payload_hash": "d82490ba9d3dfc2e6201b863508db0898d369df4d679d98012ba835cda9443e7"
   },
   "RUSFAR1M": {
     "code": "RUSFAR1M",
-    "value": "14.37",
-    "calc_date": "2026-05-04",
+    "value": "14.31",
+    "calc_date": "2026-05-05",
     "source_timestamp": null,
-    "payload_hash": "6bbae6a4d4cd32ecbf8113eb10f48054a3bba7864610e14deed6819605680926"
+    "payload_hash": "870837e9c8fcda9777a2e9c09206245ceb0336666a6445dd00477bf524a4c97f"
   },
   "RUSFAR3M": {
     "code": "RUSFAR3M",
-    "value": "14.37",
-    "calc_date": "2026-05-04",
+    "value": "14.24",
+    "calc_date": "2026-05-05",
     "source_timestamp": null,
-    "payload_hash": "6825c272f4f7be8546eb65955dba16d2e862b007c624a08b7c8655529e7d0821"
+    "payload_hash": "32d6bc21589ec06fd84038aef9b1d3751cce67e3050014f340d92f05e9de2ac6"
   },
   "RUSFARCNY": {
     "code": "RUSFARCNY",
